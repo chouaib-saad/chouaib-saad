@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @chouaib-saad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in developping and coding
+- 🌱 I’m currently learning computer engineering in hight school of computer science of mehdia
+- 💞️ I’m looking to collaborate on embadded systems projects
+- 📫 you can contact reach me at saad@isima.u-monastir.tn
 
-<!---
-chouaib-saad/chouaib-saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+for more informations you can visit my portfolio from <a href="https://chouaib-saad.github.io/my_personal_portfolio/" target="_blank">here</a>
