@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on embadded systems projects
 - 📫 you can contact and reach me from : saad@isima.u-monastir.tn
 
-for more informations you can visit my portfolio from <a href="https://chouaib-saad.github.io/my_personal_portfolio/" target="_blank">here</a>
+for more informations you can visit my portfolio from <a href="https://chouaib-saad.github.io/portfolio/" target="_blank">here</a>
