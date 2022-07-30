@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chouaib-saad
+- 👋 Hi, I’m @chouaib_saad
 - 👀 I’m interested in developping and coding
 - 🌱 I’m currently learning computer engineering in hight school of computer science of mehdia
 - 💞️ I’m looking to collaborate on embadded systems projects
