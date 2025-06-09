@@ -1,7 +1,7 @@
 * 👋 Hi, I’m **@chouaib\_saad**
-* 🧠 I'm passionate about software development, embedded systems, and engineering solutions.
-* 🎓 Currently studying **Computer Engineering** at the **Higher School of Computer Science of Mahdia**.
-* 🔧 I enjoy working on **embedded systems**, **web development**, and **software engineering** projects.
-* 🤝 Open to collaboration on innovative and impactful tech projects.
+* 🧠 Passionate about **software engineering**, problem-solving, and building efficient systems.
+* 🎓 **Software Engineering student** at the **Higher School of Computer Science of Mahdia**.
+* 🔧 I focus on **web development**, **embedded systems**, and full-stack software solutions.
+* 🤝 Always open to collaborating on impactful and innovative tech projects.
 * 📫 Reach me at: **[chouaibsaad.contact@gmail.com](mailto:chouaibsaad.contact@gmail.com)**
-* 🌐 For more information, check out my [portfolio](https://chouaib-saad.github.io/portfolio/)
+* 🌐 Check out my portfolio [here](https://chouaib-saad.github.io/portfolio/)
