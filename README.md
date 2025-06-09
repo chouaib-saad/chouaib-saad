@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @chouaib_saad
-- 👀 I’m interested in developping and coding.
-- 🌱 I’m currently learning computer engineering in hight school of computer science of mahdia.
-- 💞️ I’m looking to collaborate on embadded systems projects.
-- 🍎 I’m looking to work on web web development projects.
-- 📫 you can contact and reach me from : saad@isima.u-monastir.tn.
+---
 
-for more informations you can visit my portfolio from <a href="https://chouaib-saad.github.io/portfolio/" target="_blank">here</a>
+* 👋 Hi, I’m **@chouaib\_saad**
+* 🧠 I'm passionate about software development, embedded systems, and engineering solutions.
+* 🎓 Currently studying **Computer Engineering** at the **Higher School of Computer Science of Mahdia**.
+* 🔧 I enjoy working on **embedded systems**, **web development**, and **software engineering** projects.
+* 🤝 Open to collaboration on innovative and impactful tech projects.
+* 📫 Reach me at: **[chouaibsaad.contact@gmail.com](mailto:chouaibsaad.contact@gmail.com)**
+* 🌐 For more information, check out my [portfolio](https://chouaib-saad.github.io/portfolio/)
+
+---
