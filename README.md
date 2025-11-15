@@ -61,9 +61,3 @@ Full Stack Developer with expertise in modern web technologies. Focused on creat
 <div align="center">
   <img src="https://camo.githubusercontent.com/8d4bfc98cec938eae01309e91cc08ca4e8add5b103efce50139b365893704696/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f736f757263652f3036663231613136313932313931392e363363643738383764306137302e676966" alt="Coding" width="400"/>
 </div>
-
-<div align="center">
-  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=chouaib-saad.chouaib-saad&style=flat-square&color=0088cc)
-
-</div>
