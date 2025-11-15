@@ -1,6 +1,6 @@
 <div align="left">
   
-<img src="https://readme-typing-svg.demolab.com/?lines=$+whoami;Chouaib+Saad&font=Fira%20Code&center=false&width=400&height=100&color=00FF00&background=000000&duration=4000&pause=2000&multiline=true" alt="whoami animation" />
+<img src="https://readme-typing-svg.demolab.com/?lines=$+whoami;Chouaib+Saad&font=Fira%20Code&center=false&width=500&height=120&color=00D9FF&background=0D1117&duration=4000&pause=2000&multiline=true&size=28" alt="whoami animation" />
 
 </div>
 
